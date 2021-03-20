@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema de día antiedad que restaura el volumen perdido de la piel del rostro."
-  content : "Para combatir eficazmente los cambios relacionados con la edad en la piel del rostro, es necesario, en primer lugar, pensar profundamente. Los científicos de hoy han llegado a la conclusión de que la clave para la juventud y la firmeza de la piel radica en una hidratación intensa, que apoya el metabolismo natural."
+  title : "Crema de día antiarrugas"
+  content : "La crema revitalift de la empresa francesa LOREAL es su arma más valiosa en la lucha contra las arrugas no deseadas y la piel flácida."
   image : "images/banner.png"
   # button
   button:
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "Acerca de nuestro producto"
-  content : "Un súper humectante reconocido es el ácido hialurónico, que puede unir grandes cantidades de agua, evitando así la sequedad, la opacidad y las arrugas."
+  content : "Podrá apreciar los resultados visibles de los esfuerzos aplicados después de 4 semanas de aplicación. La piel queda tonificada, firme, tersa. Se fortalece el tejido conectivo de la cara, se reduce el número de arrugas de expresión. La crema también es perfecta para propietarios de piel muy sensible y propensa a la irritación e inflamación. Proretinol A ralentiza el proceso de envejecimiento, estimula la producción de fibras de colágeno, reduce la pigmentación, corrige la textura de la piel, unifica su tono. La elastina aporta elasticidad, aumenta las propiedades regeneradoras de la piel."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "Cómo utilizar el producto?"
-  content : "Aplicar la cantidad necesaria de crema en el rostro con suaves movimientos de masaje."
+  content : "aplique Revitalift Day todas las mañanas sobre el rostro y el cuello limpios. Además, puede utilizar Revitalift Night y la crema para ojos Revitalift."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -84,31 +84,24 @@ products:
 testimonial:
   enable : true
   title : "Lo que dice la gente sobre nuestro producto"
-  testimonialItem:
-    # testimonial item loop
-    - name : "Florentina Villca"
-      image : "images/clients/client-1.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
-      rating : "five" # rating star, one to five
-      
+  testimonialItem:  
     # testimonial item loop
     - name : "Ana Pankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
+      content : "Lo uso constantemente, estoy muy feliz."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Gektor Sucso"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
+      content : "Llevo 15 años usando la crema, durante este tiempo ha cambiado el precio, el diseño del tarro y las cajas, pero la calidad siempre ha sido la mejor. Y puedo decir con toda responsabilidad que gracias a él, a los 56 años, prácticamente no tengo arrugas."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Kalista Tankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
+      content : "Olor agradable. Bien absorbido. La piel después de la crema es suave y agradable. Yo recomiendo."
       rating : "four" # rating star, one to five
