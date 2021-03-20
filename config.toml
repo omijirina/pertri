@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://pertri.vercel.app/"
 languageCode = "en"
 title = "Pertri"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+5116059888"
 email = "lavaxa@gmail.com"
 location = "Huánuco 10001, Peru"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://pertri.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
